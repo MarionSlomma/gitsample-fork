@@ -16,12 +16,9 @@ public interface Operation {
 }
 
 
-SSH
-- private dasdf
-- public  (Server)
 
 
-User .ssh
 
-Public und private key
+
+
 
